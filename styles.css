@@ -1,0 +1,28 @@
+.rounded-image{
+    border-radius: 50%;
+}
+
+body{
+   background-color: rgb(207, 216, 201);
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-unstyled d-flex {
+    justify-content: center;
+  }
+  
+  #custom-cards > div > div:nth-child(1) > div > div {
+    background-image: url('static/chris-curry-j5s_uLajP2o-unsplash.jpg');
+  }
+  
+  #custom-cards > div > div:nth-child(2) > div > div{
+    background-image: url('static/k-f-YwZp4aU9UII-unsplash.jpg');
+  }
+
+  #custom-cards > div > div:nth-child(3) > div > div{
+    background-image: url('static/keith-misner-h0Vxgz5tyXA-unsplash.jpg');
+  }
